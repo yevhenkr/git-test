@@ -4,4 +4,9 @@
 44
 moi commit
 ferder
+<<<<<<< HEAD
 kkkkkkk
+=======
+
+fedor udalrnka
+>>>>>>> 34f0c1f970838c00867e99403797aa17ed8c4071
