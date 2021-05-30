@@ -2,11 +2,4 @@
 33
 55
 44
-moi commit
-ferder
-<<<<<<< HEAD
-kkkkkkk
-=======
-
-fedor udalrnka
 
